@@ -1,0 +1,1 @@
+# checkmk-web-icon-plugin
